@@ -7,7 +7,7 @@ A bash script to partition and format a disk and mount the partition.
     git clone https://github.com/ssaatvik30/diskpart.git
     cd diskpart
     ```
-2. **Move the diskpart.1 file to /usr/local/share/man/man1/
+2. **Move the diskpart.1 file to /usr/local/share/man/man1/**
     ```
      man diskpart
     ```
