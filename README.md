@@ -14,6 +14,6 @@ A bash script to partition and format a disk and mount the partition.
     ```
 3. **Execute the script or place the script in /usr/local/bin/**
     ```
-    ./server-stats.sh device partition_table partition_type filesystem start end partition_name mount_point 
+    ./server-stats.sh {-n(new partition table)/-e(existing partition table)} device partition_table partition_type filesystem start end partition_name mount_point 
     ```
 
